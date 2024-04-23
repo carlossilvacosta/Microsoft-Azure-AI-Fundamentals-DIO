@@ -1,6 +1,7 @@
 <img align="right" src="https://raw.githubusercontent.com/carlossilvacosta/Microsoft-Azure-AI-Fundamentals-DIO/main/Imagens/readme-principal.jpeg" width="1000"/>
 
-## Detalhes da formação
+
+## :computer: Detalhes da formação
 
 A Microsoft quer você certificado! A líder no mercado em nuvem se juntou à DIO para preparar profissionais para a certificação AI-900, o futuro da IA com cloud!
 
@@ -10,7 +11,7 @@ Com conteúdo completamente inédito, você vai se aprofundar nos principais con
 
 Destaque o seu perfil para ser encontrado por recrutadores de grandes empresas através da Talent Match (plataforma de contratação da DIO) e conecte-se com grandes nomes da Microsoft em conteúdos teóricos, práticos e mentorias ao vivo.
 
-### Atividades:
+## :scroll: Atividades
 Mentorias (Live): Momento em que você irá se inspirar nos talentos das empresas mais inovadoras do mundo, podendo interagir ao longo da live e até fazer perguntas sobre carreira e tecnologia.
 
 Desafio de Código: Coloque em prática todo o conhecimento adquirido nas aulas e teste o seu conhecimento na resolução de um desafio.
