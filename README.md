@@ -1,4 +1,5 @@
-<img align="right" src="https://raw.githubusercontent.com/carlossilvacosta/Microsoft-Azure-AI-Fundamentals-DIO/main/Imagens/readme-principal.jpeg" width="1000"/>
+<img align="right" src="https://raw.githubusercontent.com/carlossilvacosta/Microsoft-Azure-AI-Fundamentals-DIO/main/Imagens/readme-principal.jpeg" width="1000"/>   ...
+
 
 
 ## :computer: Detalhes da formação
