@@ -76,7 +76,7 @@ Depois que nosso worlspace estiver pronto temos que entrar no ML studio para cri
 
 ...
 
-## Teste do modelo
+## :man_technologist: Teste do modelo
 
 Na página do modelo, cliquei na aba "Pontos de extremidade". Também é possível acessar pelo menu lateral em "Pontos de extremidade". Cliquei no ponto correspondente ao modelo gerado. Em seguida, acessei a aba "Testar".
 
