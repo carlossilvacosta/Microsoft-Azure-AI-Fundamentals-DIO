@@ -16,7 +16,7 @@ Depois que nosso worlspace estiver pronto temos que entrar no ML studio para cri
 ...
 
 **Vamos criar um aprendizado de maquina para a previsão de aluguel de bicicletas:**
-<img align="right" src="https://raw.githubusercontent.com/carlossilvacosta/Microsoft-Azure-AI-Fundamentals-DIO/main/Imagens/Trabalhando com Machine Learning - DP01/foto01.png" width=""/> 
+<img align="right" src="https://raw.githubusercontent.com/carlossilvacosta/Microsoft-Azure-AI-Fundamentals-DIO/main/Imagens/Trabalhando%20com%20Machine%20Learning%20-%20DP01/foto1.png" width=""/> 
 
 ... 
 
