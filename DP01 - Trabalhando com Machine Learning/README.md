@@ -21,7 +21,7 @@ Depois que nosso worlspace estiver pronto temos que entrar no ML studio para cri
 
 ... 
 
-**- O tipo de tarefa é regressão e o nome de ativo de dados e aluguel de bicicletas, com fonte de dados da WEB.**
+- **O tipo de tarefa é regressão e o nome de ativo de dados e aluguel de bicicletas, com fonte de dados da WEB.**
 <img align="right" src="https://raw.githubusercontent.com/carlossilvacosta/Microsoft-Azure-AI-Fundamentals-DIO/main/Imagens/Trabalhando%20com%20Machine%20Learning%20-%20DP01/foto2.png" width=""/> 
 
 ... 
@@ -35,7 +35,7 @@ Depois que nosso worlspace estiver pronto temos que entrar no ML studio para cri
 
 ...
 
-**- A documentação do Learning é bem didática e traz todos os valores e configurações para que o trabalho automatizado seja criado:**
+- **A documentação do Learning é bem didática e traz todos os valores e configurações para que o trabalho automatizado seja criado:**
 <img align="right" src="https://raw.githubusercontent.com/carlossilvacosta/Microsoft-Azure-AI-Fundamentals-DIO/main/Imagens/Trabalhando%20com%20Machine%20Learning%20-%20DP01/foto6.png" width=""/>
 
 ... 
@@ -61,17 +61,17 @@ Depois que nosso worlspace estiver pronto temos que entrar no ML studio para cri
 
 ...  
 
-**- Chegando na opção "examinar" basta enviar o seu trabalho de treinamento:**
+- **Chegando na opção "examinar" basta enviar o seu trabalho de treinamento:**
 <img align="right" src="https://raw.githubusercontent.com/carlossilvacosta/Microsoft-Azure-AI-Fundamentals-DIO/main/Imagens/Trabalhando com Machine Learning - DP01/foto14.png" width=""/> 
 
 ... 
 
-**- Após envio seu trabalho irá passar pelo proxesso de configuração das execuções e após 15, podendo o tempo ser menor, estará concluído:**
+- **Após envio seu trabalho irá passar pelo proxesso de configuração das execuções e após 15, podendo o tempo ser menor, estará concluído:**
 <img align="right" src="https://raw.githubusercontent.com/carlossilvacosta/Microsoft-Azure-AI-Fundamentals-DIO/main/Imagens/Trabalhando com Machine Learning - DP01/foto15.png" width=""/> 
 
 ...
 
-**- Pipeline com as etapas do processo de aprendizado e os testes realizados**
+- **Pipeline com as etapas do processo de aprendizado e os testes realizados**
 <img align="right" src="https://raw.githubusercontent.com/carlossilvacosta/Microsoft-Azure-AI-Fundamentals-DIO/main/Imagens/Trabalhando com Machine Learning - DP01/foto16.png" width=""/> 
 
 ...
