@@ -61,7 +61,7 @@ Através deste recurso a Inteligência Artificial detecta a localização de um 
 ...
 
 ## Extract text from images
-Através deste recurso a Inteligência Artificial extrai o texto identificados na imagem. É possível usar a ferramenta para extrair textos impressos e manuscritos de imagem, PDF's e arquivos TIFF. O recurso de reconhecimento óptico de caracteres (OCR) oferece suporte a imagens e documentos com idiomas mistos e não exige a especificação do idioma.
+Através deste recurso a Inteligência Artificial extrai o texto identificados na imagem. É possível usar a ferramenta para extrair textos impressos e manuscritos de imagens, PDF's e arquivos TIFF. O recurso de reconhecimento óptico de caracteres (OCR) oferece suporte a imagens e documentos com idiomas mistos e não exige a especificação do idioma.
 
 ...
 
@@ -92,4 +92,4 @@ Através deste recurso a Inteligência Artificial descreve o que esta presente n
 
 ## Considerações Finais
 
- Os recursos apresentados trazem inúmeras soluções para o dia a dia, o recurso de detecção de rostos e o de detecção e descrição da imagem enriquece ainda mais sistemas de segurança, os quais identificarão as faces de quem passar a frente das câmeras, assim como reconhecer rostos ja conhecidos. O recurso de estração de texto ajudará inumeras empresas a gerenciar seus arquivos antigos, assim como escanear e guardar dados de notas, facilitando assim a manutenção dos arquivos e a percistencia do acesso aos mesmos.
+ Os recursos apresentados trazem inúmeras soluções para o dia a dia, o recurso de detecção de rostos e o de detecção e descrição da imagem enriquece ainda mais sistemas de segurança, os quais identificarão as faces de quem passar a frente das câmeras, assim como reconhecer rostos ja conhecidos. O recurso de estração de texto ajudará inumeras empresas a gerenciar seus arquivos antigos, assim como escanear e guardar dados de notas, facilitando assim a manutenção dos arquivos e a persistência do acesso aos mesmos.
