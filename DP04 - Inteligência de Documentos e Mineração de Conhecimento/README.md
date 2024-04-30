@@ -33,6 +33,9 @@ Inicialmente é necessário realizar a criação dos recursos. Na área de cria�
 ...
 
 - **Passo 04: Permitindo Acesso Anônimo ao Blob**
+
+...
+
 O laboratório é apenas didático, para aprender os princípios da inteligência artificial com o Azure, precisamos permitir o acesso anônimo ao blob para simplificar e facilitar nossas implementações. Após criar o seu Storage, entre no mesmo e navegue até a guia SETTINGS > CONFIGURATION seguindo os passos abaixo:
 
 <img align="right" src="https://github.com/carlossilvacosta/Microsoft-Azure-AI-Fundamentals-DIO/blob/main/Imagens/Intelig%C3%AAncia%20de%20Documentos%20e%20Minera%C3%A7%C3%A3o%20de%20Conhecimento%20-%20DP04/gif03.gif" width=""/>
@@ -77,17 +80,25 @@ Realizadas todas as configurações vamos voltar ao AZURE AI SERVICES, entrar no
 
 <img align="right" src="https://raw.githubusercontent.com/carlossilvacosta/Microsoft-Azure-AI-Fundamentals-DIO/main/Imagens/Intelig%C3%AAncia%20de%20Documentos%20e%20Minera%C3%A7%C3%A3o%20de%20Conhecimento%20-%20DP04/foto02.png" width=""/>
 
+...
+
 ```
 search=*&$count=true    (  verifica se a indexação esta funcionando e mostra os documentos )
 ```
+...
 
 <img align="right" src="https://raw.githubusercontent.com/carlossilvacosta/Microsoft-Azure-AI-Fundamentals-DIO/main/Imagens/Intelig%C3%AAncia%20de%20Documentos%20e%20Minera%C3%A7%C3%A3o%20de%20Conhecimento%20-%20DP04/foto03.png" width=""/>
+
+...
  
 ```
 search=locations:'Chicago' ( Consulta as ocorrencias acontecidas em Chicado )
 ```
+...
 
-<img align="right" src="https://raw.githubusercontent.com/carlossilvacosta/Microsoft-Azure-AI-Fundamentals-DIO/main/Imagens/Intelig%C3%AAncia%20de%20Documentos%20e%20Minera%C3%A7%C3%A3o%20de%20Conhecimento%20-%20DP04/foto04.png" width=""/> ... 
+<img align="right" src="https://raw.githubusercontent.com/carlossilvacosta/Microsoft-Azure-AI-Fundamentals-DIO/main/Imagens/Intelig%C3%AAncia%20de%20Documentos%20e%20Minera%C3%A7%C3%A3o%20de%20Conhecimento%20-%20DP04/foto04.png" width=""/>
+
+...
 
 ```
 search=sentiment:'negative' ( Consulta as ocorrencias com sentimento negativo )
