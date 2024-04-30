@@ -38,7 +38,7 @@ Primeiro de tudo é necessário realizar a criação do recurso. Na área de cri
 
 <img align="right" src="https://raw.githubusercontent.com/carlossilvacosta/Microsoft-Azure-AI-Fundamentals-DIO/main/Imagens/Processamento%20de%20Linguagem%20Natural%20-%20DP03/foto06.png" width=""/>
 
-
+...
 
 # :computer: Análise de Sentimentos com Language Studio
 
