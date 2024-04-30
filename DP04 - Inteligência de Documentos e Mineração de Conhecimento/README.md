@@ -65,6 +65,7 @@ Neste passo é precisa anexar / importar os dados que foram inseridos e configur
 Esta é a parte mais importante de todo o processo, assim como o bootcamp apresenta, são muitos passos que você precisa seguir a risca, achei apenas uma diferença da documentação oficial para o que achei quando configurei o meu.
 
 Ao seguir a Documentação você chegará em INDEX DOCUMETS, o qual o gif acima mostra o início do processo, siga os topicos até chegar na sessão 4:
+
 <img align="right" src="https://raw.githubusercontent.com/carlossilvacosta/Microsoft-Azure-AI-Fundamentals-DIO/main/Imagens/Intelig%C3%AAncia%20de%20Documentos%20e%20Minera%C3%A7%C3%A3o%20de%20Conhecimento%20-%20DP04/foto00.png" width=""/>
 
 ...
@@ -78,8 +79,6 @@ Siga todas as configurações terminando no passo 17: 'Select the indexer name t
 ...
 
 - **Passo 06: Consultar o índice:**
-
-...
 
 Realizadas todas as configurações vamos voltar ao AZURE AI SERVICES, entrar no nosso serviço e através do SEARCH EXPLORER testar se tudo foi indexado e se a consulta esta funcionando, utilizando os comandos:
 
