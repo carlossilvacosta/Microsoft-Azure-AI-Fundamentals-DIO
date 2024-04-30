@@ -44,3 +44,23 @@ Primeiro de tudo é necessário realizar a criação do recurso. Na área de cri
 
 ## Analyze sentiment and mine opinions
 Através deste recurso a Inteligência Artificial analiza textos com a finalidade de descobrir o sentimento e satisfação do usuário que o escreveu, assim como as principais opiniões.
+
+...
+
+- **Passo 01: Selecionar o recurso do Azure para poder utilizar qualquer serviço do Azure Language Service**
+<img align="right" src="" width=""/>
+
+...
+
+- **Passo 02: Selecionar a ferramenta Analyze Sentiment and mine Opinions**
+<img align="right" src="" width=""/>
+
+...
+
+- **Passo 03: Selecionar a linguagem desejada e inserir o texto ou carregar um arquivo de texto para a análise ser realizada**
+<img align="right" src="" width=""/>
+
+...
+
+- **Passo 04: Por fim, examine os resultados**
+<img align="right" src="" width=""/>
