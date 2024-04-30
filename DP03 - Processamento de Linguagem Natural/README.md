@@ -48,19 +48,24 @@ Através deste recurso a Inteligência Artificial analiza textos com a finalidad
 ...
 
 - **Passo 01: Selecionar o recurso do Azure para poder utilizar qualquer serviço do Azure Language Service**
-<img align="right" src="" width=""/>
+<img align="right" src="https://raw.githubusercontent.com/carlossilvacosta/Microsoft-Azure-AI-Fundamentals-DIO/main/Imagens/Processamento%20de%20Linguagem%20Natural%20-%20DP03/foto07.png" width=""/>
 
 ...
 
 - **Passo 02: Selecionar a ferramenta Analyze Sentiment and mine Opinions**
-<img align="right" src="" width=""/>
+<img align="right" src="https://raw.githubusercontent.com/carlossilvacosta/Microsoft-Azure-AI-Fundamentals-DIO/main/Imagens/Processamento%20de%20Linguagem%20Natural%20-%20DP03/foto08.png" width=""/>
 
 ...
 
 - **Passo 03: Selecionar a linguagem desejada e inserir o texto ou carregar um arquivo de texto para a análise ser realizada**
-<img align="right" src="" width=""/>
+<img align="right" src="https://raw.githubusercontent.com/carlossilvacosta/Microsoft-Azure-AI-Fundamentals-DIO/main/Imagens/Processamento%20de%20Linguagem%20Natural%20-%20DP03/foto09.png" width=""/>
 
 ...
 
 - **Passo 04: Por fim, examine os resultados**
-<img align="right" src="" width=""/>
+<img align="right" src="https://raw.githubusercontent.com/carlossilvacosta/Microsoft-Azure-AI-Fundamentals-DIO/main/Imagens/Processamento%20de%20Linguagem%20Natural%20-%20DP03/foto10.png" width=""/>
+
+...
+
+## Considerações Finais  
+ O recurso facilita bastante o dia da dia das empresas, uma vez que possibilita saber de forma ágil e simples o sentimento dos clientes no que diz respeito aos seus produtos, o que eles mais gostaram, menos gostaram e a possibilidade de voltarem a consumir o produto ou serviço, possibilitando assim a reação rápida por parte da empresa.
