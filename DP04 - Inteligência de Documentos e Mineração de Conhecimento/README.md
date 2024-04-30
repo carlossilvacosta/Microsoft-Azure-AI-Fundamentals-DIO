@@ -5,10 +5,10 @@
 Inteligência de Documentos e Mineração de Conhecimento</span>
 </h1>
 
-# Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados
+## Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados
 
-- **Problema:**
-O desafio propoe que seja criada uma pesquisa que funcione juntamente com um serviço de inteligência artificial para identificar palavras chave, sentimentos, utilizando também o serviço de armazenamento do azure.
+- **Desafio de Projeto:**
+O desafio propõe que seja criada uma pesquisa que funcione juntamente com um serviço de inteligência artificial para identificar palavras chave, sentimentos, utilizando também o serviço de armazenamento do azure.
 
 [Documentação](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/11-ai-search.html)
 
@@ -18,7 +18,7 @@ Inicialmente é necessário realizar a criação dos recursos. Na área de cria�
 ...
 
 - **Passo 01: Azure AI Search**
-<img align="right" src="" width=""/>
+<img align="right" src="https://github.com/carlossilvacosta/Microsoft-Azure-AI-Fundamentals-DIO/blob/main/Imagens/Intelig%C3%AAncia%20de%20Documentos%20e%20Minera%C3%A7%C3%A3o%20de%20Conhecimento%20-%20DP04/gif00.gif" width=""/>
 
 ...
 
