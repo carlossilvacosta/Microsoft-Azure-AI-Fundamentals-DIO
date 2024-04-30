@@ -1,0 +1,5 @@
+- Anotações
+
+Atividades: 30/04/2024
+1- Finalizar o bootcamp da DIO - Microsoft Azure AI Fundamentals;
+2- Criar e Treinar as arquiteturas de CNN - Classificador de imagens usando redes CNN-IA;
