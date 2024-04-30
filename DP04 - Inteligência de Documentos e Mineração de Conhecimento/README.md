@@ -57,6 +57,7 @@ O laboratório é apenas didático, para aprender os princípios da inteligênci
 ...
 
 Neste passo é precisa anexar / importar os dados que foram inseridos e configurados no seu STORAGE. No AI SEARCH, siga os passos abaixo:
+
 <img align="right" src="https://github.com/carlossilvacosta/Microsoft-Azure-AI-Fundamentals-DIO/blob/main/Imagens/Intelig%C3%AAncia%20de%20Documentos%20e%20Minera%C3%A7%C3%A3o%20de%20Conhecimento%20-%20DP04/gif06.gif" width=""/>
 
 ...
@@ -73,6 +74,8 @@ Ao seguir a Documentação você chegará em INDEX DOCUMETS, o qual o gif acima 
 Note que a instrução manda que selecionemos o recurso AI SERVICE configurado, porém para mim não mostrou nenhum, apenas uma informação dizend que meu acesso era gratúitoe que as configurações são limitadas, não se preocupe e pode passar para o passo 5 . In the Add enrichments section.
 
 Siga todas as configurações terminando no passo 17: 'Select the indexer name to see more details'.
+
+...
 
 - **Passo 06: Consultar o índice:**
 
