@@ -15,7 +15,6 @@ O desafio propõe que seja criada uma pesquisa que funcione juntamente com um se
 ## Criação dos Recursos - Azure AI Search e Azure AI Services:
 Inicialmente é necessário realizar a criação dos recursos. Na área de criação do recurso, pode-se ir na área de busca e procurar pelo serviço do Azure chamado: Azure AI Search e em seguida o Azure AI Services, realizma-se os procedimentos preenchendo com os dados necessários para a criação das respectivas instâncias.
 
-...
 
 - **Passo 01: Azure AI Search**
 <img align="right" src="https://github.com/carlossilvacosta/Microsoft-Azure-AI-Fundamentals-DIO/blob/main/Imagens/Intelig%C3%AAncia%20de%20Documentos%20e%20Minera%C3%A7%C3%A3o%20de%20Conhecimento%20-%20DP04/gif00.gif" width=""/>
@@ -53,8 +52,6 @@ O laboratório é apenas didático, para aprender os princípios da inteligênci
 ...
 
 - **Passo 05: Importar e Indexar Dados para o AZURE AI SEARCH**
-
-...
 
 Neste passo é precisa anexar / importar os dados que foram inseridos e configurados no seu STORAGE. No AI SEARCH, siga os passos abaixo:
 
