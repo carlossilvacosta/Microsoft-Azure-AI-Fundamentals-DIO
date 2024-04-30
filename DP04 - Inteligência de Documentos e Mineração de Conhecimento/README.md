@@ -23,42 +23,42 @@ Inicialmente é necessário realizar a criação dos recursos. Na área de cria�
 ...
 
 - **Passo 02: Azure AI Services**
-<img align="right" src="" width=""/>
+<img align="right" src="https://github.com/carlossilvacosta/Microsoft-Azure-AI-Fundamentals-DIO/blob/main/Imagens/Intelig%C3%AAncia%20de%20Documentos%20e%20Minera%C3%A7%C3%A3o%20de%20Conhecimento%20-%20DP04/gif01.gif" width=""/>
 
 ...
 
 - **Passo 03: Criando o Storage Account**
-<img align="right" src="" width=""/>
+<img align="right" src="https://github.com/carlossilvacosta/Microsoft-Azure-AI-Fundamentals-DIO/blob/main/Imagens/Intelig%C3%AAncia%20de%20Documentos%20e%20Minera%C3%A7%C3%A3o%20de%20Conhecimento%20-%20DP04/gif02.gif" width=""/>
 
 ...
 
 - **Passo 04: Permitindo Acesso Anônimo ao Blob**
 O laboratório é apenas didático, para aprender os princípios da inteligência artificial com o Azure, precisamos permitir o acesso anônimo ao blob para simplificar e facilitar nossas implementações. Após criar o seu Storage, entre no mesmo e navegue até a guia SETTINGS > CONFIGURATION seguindo os passos abaixo:
 
-<img align="right" src="" width=""/>
+<img align="right" src="https://github.com/carlossilvacosta/Microsoft-Azure-AI-Fundamentals-DIO/blob/main/Imagens/Intelig%C3%AAncia%20de%20Documentos%20e%20Minera%C3%A7%C3%A3o%20de%20Conhecimento%20-%20DP04/gif03.gif" width=""/>
 
 ...
 
 - **Passo 03: Criando o Conteiner**
-<img align="right" src="" width=""/>
+<img align="right" src="https://github.com/carlossilvacosta/Microsoft-Azure-AI-Fundamentals-DIO/blob/main/Imagens/Intelig%C3%AAncia%20de%20Documentos%20e%20Minera%C3%A7%C3%A3o%20de%20Conhecimento%20-%20DP04/gif04.gif" width=""/>
 
 ...
 
 - **Passo 04: Carregando Arquivos**
-<img align="right" src="" width=""/>
+<img align="right" src="https://github.com/carlossilvacosta/Microsoft-Azure-AI-Fundamentals-DIO/blob/main/Imagens/Intelig%C3%AAncia%20de%20Documentos%20e%20Minera%C3%A7%C3%A3o%20de%20Conhecimento%20-%20DP04/gif05.gif" width=""/>
 
 ...
 
 - **Passo 05: Importar e Indexar Dados para o AZURE AI SEARCH**
 Neste passo é precisa anexar / importar os dados que foram inseridos e configurados no seu STORAGE. No AI SEARCH, siga os passos abaixo:
-<img align="right" src="" width=""/>
+<img align="right" src="https://github.com/carlossilvacosta/Microsoft-Azure-AI-Fundamentals-DIO/blob/main/Imagens/Intelig%C3%AAncia%20de%20Documentos%20e%20Minera%C3%A7%C3%A3o%20de%20Conhecimento%20-%20DP04/gif06.gif" width=""/>
 
 ...
 
 Esta é a parte mais importante de todo o processo, assim como o bootcamp apresenta, são muitos passos que você precisa seguir a risca, achei apenas uma diferença da documentação oficial para o que achei quando configurei o meu.
 
 Ao seguir a Documentação você chegará em INDEX DOCUMETS, o qual o gif acima mostra o início do processo, siga os topicos até chegar na sessão 4:
-<img align="right" src="" width=""/>
+<img align="right" src="https://raw.githubusercontent.com/carlossilvacosta/Microsoft-Azure-AI-Fundamentals-DIO/main/Imagens/Intelig%C3%AAncia%20de%20Documentos%20e%20Minera%C3%A7%C3%A3o%20de%20Conhecimento%20-%20DP04/foto00.png" width=""/>
 
 ...
 
@@ -66,31 +66,32 @@ Ao seguir a Documentação você chegará em INDEX DOCUMETS, o qual o gif acima 
 
 Note que a instrução manda que selecionemos o recurso AI SERVICE configurado, porém para mim não mostrou nenhum, apenas uma informação dizend que meu acesso era gratúitoe que as configurações são limitadas, não se preocupe e pode passar para o passo 5 . In the Add enrichments section.
 
-Siga todas as configurações terminando no passo 17 . Select the indexer name to see more details.
+Siga todas as configurações terminando no passo 17: 'Select the indexer name to see more details'.
 
 - **Passo 06: Consultar o índice:**
 Realizadas todas as configurações vamos voltar ao AZURE AI SERVICES, entrar no nosso serviço e através do SEARCH EXPLORER testar se tudo foi indexado e se a consulta esta funcionando, utilizando os comandos:
 
-<img align="right" src="" width=""/> ... 
+<img align="right" src="https://raw.githubusercontent.com/carlossilvacosta/Microsoft-Azure-AI-Fundamentals-DIO/main/Imagens/Intelig%C3%AAncia%20de%20Documentos%20e%20Minera%C3%A7%C3%A3o%20de%20Conhecimento%20-%20DP04/foto01.png" width=""/>
+
+...
+
+<img align="right" src="https://raw.githubusercontent.com/carlossilvacosta/Microsoft-Azure-AI-Fundamentals-DIO/main/Imagens/Intelig%C3%AAncia%20de%20Documentos%20e%20Minera%C3%A7%C3%A3o%20de%20Conhecimento%20-%20DP04/foto02.png" width=""/>
 
 ```
 search=*&$count=true    (  verifica se a indexação esta funcionando e mostra os documentos )
 ```
 
-<img align="right" src="" width=""/> ... 
-
+<img align="right" src="https://raw.githubusercontent.com/carlossilvacosta/Microsoft-Azure-AI-Fundamentals-DIO/main/Imagens/Intelig%C3%AAncia%20de%20Documentos%20e%20Minera%C3%A7%C3%A3o%20de%20Conhecimento%20-%20DP04/foto03.png" width=""/>
+ 
 ```
 search=locations:'Chicago' ( Consulta as ocorrencias acontecidas em Chicado )
 ```
 
-<img align="right" src="" width=""/> ... 
+<img align="right" src="https://raw.githubusercontent.com/carlossilvacosta/Microsoft-Azure-AI-Fundamentals-DIO/main/Imagens/Intelig%C3%AAncia%20de%20Documentos%20e%20Minera%C3%A7%C3%A3o%20de%20Conhecimento%20-%20DP04/foto04.png" width=""/> ... 
 
 ```
 search=sentiment:'negative' ( Consulta as ocorrencias com sentimento negativo )
 ```
-
-<img align="right" src="" width=""/> ... 
-
 
 - **Considerações Finais**
 As ferramentas de Machine Learning e Inteligência Artificial do Azure facilitam a consulta em documentos e pesquisas, agilizando ainda mais a consulta de satisfação de empresas sobre seus produtos e serviços.
