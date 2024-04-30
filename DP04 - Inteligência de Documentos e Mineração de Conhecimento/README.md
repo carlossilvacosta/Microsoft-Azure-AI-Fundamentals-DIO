@@ -33,8 +33,6 @@ Inicialmente é necessário realizar a criação dos recursos. Na área de cria�
 
 - **Passo 04: Permitindo Acesso Anônimo ao Blob**
 
-...
-
 O laboratório é apenas didático, para aprender os princípios da inteligência artificial com o Azure, precisamos permitir o acesso anônimo ao blob para simplificar e facilitar nossas implementações. Após criar o seu Storage, entre no mesmo e navegue até a guia SETTINGS > CONFIGURATION seguindo os passos abaixo:
 
 <img align="right" src="https://github.com/carlossilvacosta/Microsoft-Azure-AI-Fundamentals-DIO/blob/main/Imagens/Intelig%C3%AAncia%20de%20Documentos%20e%20Minera%C3%A7%C3%A3o%20de%20Conhecimento%20-%20DP04/gif03.gif" width=""/>
@@ -67,7 +65,7 @@ Ao seguir a Documentação você chegará em INDEX DOCUMETS, o qual o gif acima 
 
 ...
 
-"4. In the Attach Cognitive Services section, select your Azure AI services resource."
+Tópico 4: "In the Attach Cognitive Services section, select your Azure AI services resource."
 
 Note que a instrução manda que selecionemos o recurso AI SERVICE configurado, porém para mim não mostrou nenhum, apenas uma informação dizend que meu acesso era gratúitoe que as configurações são limitadas, não se preocupe e pode passar para o passo 5 . In the Add enrichments section.
 
