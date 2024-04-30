@@ -5,8 +5,6 @@
 Inteligência de Documentos e Mineração de Conhecimento</span>
 </h1>
 
-## Inteligência de Documentos e Mineração de Conhecimento 
-
 # Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados
 
 - **Problema:**
