@@ -52,7 +52,7 @@ Após criar o seu serviço de inteligencia virtual do Azure, basta iniciar o Azu
 
 ...
 
-## Passo 03: Utilizando as nossas imagens no serviço Azure AI Vision Studio
+## Passo 03: Utilizando Imagens no Serviço Azure AI Vision Studio
 
 ### Extract text from images
 Através deste recurso a Inteligência Artificial extrai o texto identificados na imagem. É possível usar a ferramenta para extrair textos impressos e manuscritos de imagens, PDF's e arquivos TIFF. O recurso de reconhecimento óptico de caracteres (OCR) oferece suporte a imagens e documentos com idiomas mistos e não exige a especificação do idioma.
