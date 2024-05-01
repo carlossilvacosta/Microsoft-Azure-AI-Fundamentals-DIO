@@ -69,20 +69,32 @@ Através deste recurso a Inteligência Artificial extrai o texto identificados n
 
 ...
 
+## Outputs:
+
 - **Imagem 01:**
-<img align="right" src="https://raw.githubusercontent.com/carlossilvacosta/Microsoft-Azure-AI-Fundamentals-DIO/main/DP05%20-%20Trabalhando%20com%20IA%20Generativa/outputs/foto00.png" width=""/> ... 
+<img align="right" src="https://raw.githubusercontent.com/carlossilvacosta/Microsoft-Azure-AI-Fundamentals-DIO/main/DP05%20-%20Trabalhando%20com%20IA%20Generativa/outputs/foto00.png" width=""/>
+
+... 
 
 - **Imagem 02:**
-<img align="right" src="https://raw.githubusercontent.com/carlossilvacosta/Microsoft-Azure-AI-Fundamentals-DIO/main/DP05%20-%20Trabalhando%20com%20IA%20Generativa/outputs/foto01.png" width=""/> ... 
+<img align="right" src="https://raw.githubusercontent.com/carlossilvacosta/Microsoft-Azure-AI-Fundamentals-DIO/main/DP05%20-%20Trabalhando%20com%20IA%20Generativa/outputs/foto01.png" width=""/>
+
+... 
 
 - **Imagem 03:**
-<img align="right" src="https://raw.githubusercontent.com/carlossilvacosta/Microsoft-Azure-AI-Fundamentals-DIO/main/DP05%20-%20Trabalhando%20com%20IA%20Generativa/outputs/foto02.png" width=""/> ... 
+<img align="right" src="https://raw.githubusercontent.com/carlossilvacosta/Microsoft-Azure-AI-Fundamentals-DIO/main/DP05%20-%20Trabalhando%20com%20IA%20Generativa/outputs/foto02.png" width=""/>
+
+... 
 
 - **Imagem 04:**
-<img align="right" src="https://raw.githubusercontent.com/carlossilvacosta/Microsoft-Azure-AI-Fundamentals-DIO/main/DP05%20-%20Trabalhando%20com%20IA%20Generativa/outputs/foto03.png" width=""/> ... 
+<img align="right" src="https://raw.githubusercontent.com/carlossilvacosta/Microsoft-Azure-AI-Fundamentals-DIO/main/DP05%20-%20Trabalhando%20com%20IA%20Generativa/outputs/foto03.png" width=""/>
+
+... 
 
 - **Imagem 05:**
-<img align="right" src="https://raw.githubusercontent.com/carlossilvacosta/Microsoft-Azure-AI-Fundamentals-DIO/main/DP05%20-%20Trabalhando%20com%20IA%20Generativa/outputs/foto04.png" width=""/> ... 
+<img align="right" src="https://raw.githubusercontent.com/carlossilvacosta/Microsoft-Azure-AI-Fundamentals-DIO/main/DP05%20-%20Trabalhando%20com%20IA%20Generativa/outputs/foto04.png" width=""/>
+
+... 
 
 ## Considerações Finais
 
