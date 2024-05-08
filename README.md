@@ -1,6 +1,9 @@
 <img align="right" src="https://raw.githubusercontent.com/carlossilvacosta/Microsoft-Azure-AI-Fundamentals-DIO/main/Imagens/readme-principal.jpeg" width="1000"/>   ...
-
-
+<h1>
+    <a href="">
+     <img align="center" width="60px" src="https://hermes.dio.me/lab_projects/badges/87d332d0-5198-4a2f-b159-38c8c2976954.png"></a>
+    <span> Microsoft Azure AI Fundamentals</span>
+</h1>
 
 ## :computer: Detalhes da formação
 
@@ -22,4 +25,4 @@ Desafio de Projeto: Construa o seu portfólio construindo projetos práticos com
 Ranking: Cada bootcamp possui um ranking com premiações exclusivas, onde você pontua de acordo com as interações que você realiza em Fórum e Rooms, dos acertos que você tem em questionários e da qualidade do código que você desenvolveu nos desafios.
 
 
-### Repositório destinado às entregas dos desafios de projeto da formação.# Microsoft-Azure-AI-Fundamentals-DIO
+### Repositório destinado às entregas dos desafios de projeto da formação.
